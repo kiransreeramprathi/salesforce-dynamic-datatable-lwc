@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Dynamic Reusable Data Table">
+        <template if:true={data}>
+            <c-reusable-datatable records={data} columns={columns}></c-reusable-datatable>
+        </template>
+        <template if:true={error}>
+            <p class="slds-text-color_error slds-p-around_small">Error: {error}</p>
+        </template>
+    </lightning-card>
+</template>

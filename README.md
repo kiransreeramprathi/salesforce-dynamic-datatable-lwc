@@ -16,5 +16,5 @@ Perfect for developers, admins, architects, and managed packages needing a **uni
 
 ---
 
-## 📸 Demo Screenshot (Placeholder)
-> *(Add your screenshot here — UI with search + pagination + table)*  
+## 📸 Demo Screenshot
+![alt text](image.png)
